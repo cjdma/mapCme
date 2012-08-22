@@ -1,0 +1,5 @@
+MAPC.me
+http://mapc.me/
+
+GPL Version 2 licenses.
+http://www.gnu.org/licenses/gpl2.html

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="mcm50247b2f2af27.dbk">
+    <dc:identifier>mcm50247b2f2af27</dc:identifier>
+    <dc:title>첫번째 문서</dc:title>
+    <dc:subject>더블린코어, 분류</dc:subject>
+    <dc:description></dc:description>
+    <dc:contributor></dc:contributor>
+    <dc:language></dc:language>
+    <dc:format></dc:format>
+    <dc:type></dc:type>
+    <dc:date></dc:date>
+    <dc:creator></dc:creator>
+    <dc:publisher></dc:publisher>
+    <dc:relation></dc:relation>
+    <dc:source></dc:source>
+    <dc:rights></dc:rights>
+    <dc:coverage></dc:coverage>
+    <dc:creator></dc:creator>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article version="5.0" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:svg="http://www.w3.org/2000/svg"
+         xmlns:m="http://www.w3.org/1998/Math/MathML"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:db="http://docbook.org/ns/docbook">
+  <info>
+    <title>섹션 이름</title>
+
+    <author>
+      <personname><firstname>이름</firstname><surname>성</surname></personname>
+
+      <affiliation>
+        <orgname>발행기관</orgname>
+      </affiliation>
+    </author>
+
+    <pubdate>2012-09-01</pubdate>
+  </info>
+
+  <section>
+    <title>섹션 타이틀</title>
+
+    <para>내용들어가는 곳</para>
+  </section>
+</article>
